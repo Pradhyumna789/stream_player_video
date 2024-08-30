@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "6pp": "^1.2.16",
     "express": "^4.19.2"
   },
   "devDependencies": {
